@@ -1,3 +1,3 @@
 ## gophera
 
-![gophera mascot](gophera.svg?raw=true "gophera mascot")
+![gophera mascot](gophera.png?raw=true "gophera mascot")
